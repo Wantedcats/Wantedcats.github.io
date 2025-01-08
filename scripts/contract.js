@@ -5,7 +5,7 @@ const abi=
 
 
 
-const FREE_NFT =2
+const FREE_NFT =0
 
 let accounts=[]
 let is_connected = 0
